@@ -1,0 +1,6 @@
+*.go linguist-detectable
+yarn.lock linguist-generated
+go.sum linguist-generated
+public/**/*.html linguist-vendored
+vendor/* linguist-vendored
+# eof 53babe93

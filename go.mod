@@ -1,0 +1,3 @@
+module swift-kit
+
+go 1.21
